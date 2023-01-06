@@ -1,11 +1,11 @@
 # TP-IOT
 
-1er étape: installer l'environnement virtuel.
+# 1er étape: installer l'environnement virtuel.
 
 Pour ce faire, on va exécuter la commande suivante dans le terminal de l'ide : 
 - python -m venv venv
 
-2eme étape : activer l'environnement virtuel.
+# 2eme étape : activer l'environnement virtuel.
 voila la commande à exécuter sur le terminal :
 - .\venv\Scirpts\activate
 
@@ -14,12 +14,12 @@ Si vous avez une erreur à la suite de cette commande, ouvrez un powershell en t
 Une fois la commande executée taper "O" et faites entrer.
 
 
-3eme étape : Créer un répertoire tp dans le dossier venv.
+# 3eme étape : Créer un répertoire tp dans le dossier venv.
 - Se mettre sur le dossier venv : cd .\venv\ 
 - creer le dossier tp : mkdir tp
 - et se mettre sur le dossier tp: cd tp
 
-4eme étape: installer flask et influxdb client.
+# 4eme étape: installer flask et influxdb client.
 
 Voici les commandes à taper:
 - pip install flask

@@ -34,4 +34,4 @@ Pour lancer le projet se mettre sur le répaertoire tp dans un terminal et exéc
 
 # REMERCIEMENT
 
-@HugoGit-Hub c'est un bon mais parfois c'est un connard
+@HugoGit-Hub

@@ -15,9 +15,9 @@ Une fois la commande executée taper "O" et faites entrer.
 
 
 3eme étape : Créer un répertoire tp dans le dossier venv.
-Se mettre sur le dossier venv : cd .\venv\ 
-creer le dossier tp : mkdir tp
-et se mettre sur le dossier tp: cd tp
+- Se mettre sur le dossier venv : cd .\venv\ 
+- creer le dossier tp : mkdir tp
+- et se mettre sur le dossier tp: cd tp
 
 4eme étape: installer flask et influxdb client.
 

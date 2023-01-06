@@ -22,8 +22,8 @@ et se mettre sur le dossier tp: cd tp
 4eme étape: installer flask et influxdb client.
 
 Voici les commandes à taper:
-pip install flask
-pip install influxdb-client
+- pip install flask
+- pip install influxdb-client
 
 Ne pas oublier de changer le nom du bucket, de l'orga, de l'username et de l'url dans le code du fichier app.py.
 

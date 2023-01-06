@@ -31,3 +31,7 @@ Ne pas oublier de changer le nom du bucket, de l'orga, de l'username et de l'url
 
 Pour lancer le projet se mettre sur le répaertoire tp dans un terminal et exécuter cette commande:
 - flask --app app run
+
+# REMERCIEMENT
+
+@HugoGit-Hub
